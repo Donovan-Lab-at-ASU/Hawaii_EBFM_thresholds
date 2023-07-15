@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/666594763.svg)](https://zenodo.org/badge/latestdoi/666594763)
+
 This repository includes data and analysis scripts to accompany:
 
 # Utility of indicator thresholds across spatial gradients for applications to ecosystem-based fisheries management
